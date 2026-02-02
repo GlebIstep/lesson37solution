@@ -1,8 +1,9 @@
 #include <iostream>
 using namespace std;
 
+//главная функция программы
 int main() {
-	cout << "Testing..." << endl;
+	cout << "тестинг..." << endl;
 	cout << "Testing..." << endl;
 	cout << "Testing..." << endl;
 	cout << "Testing..." << endl;
