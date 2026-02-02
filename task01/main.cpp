@@ -1,9 +1,9 @@
-#include <iostream>
+п»ї#include <iostream>
 using namespace std;
 
-//главная функция программы
+//РіР»Р°РІРЅР°СЏ С„СѓРЅРєС†РёСЏ РїСЂРѕРіСЂР°РјРјС‹
 int main() {
-	cout << "тестинг..." << endl;
+	cout << "С‚РµСЃС‚РёРЅРі..." << endl;
 	cout << "Testing..." << endl;
 	cout << "Testing..." << endl;
 	cout << "Testing..." << endl;
